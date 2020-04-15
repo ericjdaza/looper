@@ -137,6 +137,16 @@ Reverse chronological order, both technical and popular.
   Nobel Lecture of Clive Granger.  
   (2003)  
   [pdf](https://www.nobelprize.org/uploads/2018/06/granger-lecture.pdf)
+  
+* Toward causal inference with interference.
+  Hudgens MG, Halloran ME.
+  Journal of the American Statistical Association. 2008 Jun 1;103(482):832-42.
+  [doi](https://doi.org/10.1198/016214508000000292)
+  
+* Causal analysis of self-tracked time series data using a counterfactual framework for N-of-1 trials.
+  Eric J. Daza.
+  Methods of information in medicine. 2018 May;57(S 01):e10-21.
+  [url](https://www.thieme-connect.com/products/ejournals/abstract/10.3414/ME16-02-0044)
 
 * Rubin, D. B. (1974)   
   Estimating causal effects of treatments in randomized and nonrandomized studies.    
@@ -162,6 +172,12 @@ Reverse chronological order, both technical and popular.
 * Inferring causality in time series data.   
   Shay Palachy.  
   [url](https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46)
+  
+* Coronavirus, Telemedicine, and Race: Part 1 (Simulated Real-world Evidence).
+  Causal inference tutorial in R using synthetic data.
+  Eric J. Daza.
+  [url](https://towardsdatascience.com/coronavirus-telemedicine-and-race-part-1-simulated-real-world-evidence-9971f553194d)
+
   
   
 ## Software
